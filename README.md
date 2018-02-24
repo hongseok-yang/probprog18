@@ -43,22 +43,22 @@ This course has two goals. The first is to help students to be a good user of an
 * 03/27 (Tue) - Markov Chain Monte Carlo. 
 * 03/29 (Thu) - Markov Chain Monte Carlo. 
 * 04/03 (Tue) - Markov Chain Monte Carlo. 
-* 04/05 (Thu) - Implementing Inference Algorithms for Probabilistic Programs. 
-* 04/10 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. 
-* 04/12 (Thu) - Implementing Inference Algorithms for Probabilistic Programs. 
+* 04/05 (Thu) - Basics of Operational Semantics.
+* 04/10 (Tue) - Specifying Inference Algorithms using Operational Semantics.
+* 04/12 (Thu) - Specifying Inference Algorithms using Operational Semantics.
 * __**04/17 (Tue), 04/19 (Thu) - NO LECTURES.**__
-* 04/24 (Tue) - Denotational Semantics of Probabilistic Programs. 
-* 04/26 (Thu) - Denotational Semantics of Probabilistic Programs. 
-* 05/01 (Tue) - Denotational Semantics of Probabilistic Programs. 
-* 05/03 (Thu) - Denotational Semantics of Probabilistic Programs. 
-* 05/08 (Tue) - Amortised Inference. 
-* 05/10 (Thu) - Amortised Inference. 
-* 05/15 (Tue) - TBD
-* 05/17 (Thu) - TBD
+* 04/24 (Tue) - Specifying Inference Algorithms using Operational Semantics.
+* 04/26 (Thu) - Stochastic Variational Inference.
+* 05/01 (Tue) - Stochastic Variational Inference.
+* 05/03 (Thu) - Stochastic Variational Inference.
+* 05/08 (Tue) - Denotational Semantics of Probabilistic Programs.
+* 05/10 (Thu) - Denotational Semantics of Probabilistic Programs. 
+* 05/15 (Tue) - Denotational Semantics of Probabilistic Programs. 
+* 05/17 (Thu) - Denotational Semantics of Probabilistic Programs.
 * __**05/22 (Tue) - NO LECTURE.**__
-* 05/24 (Thu) - TBD
-* 05/29 (Tue) - TBD
-* 05/31 (Thu) - TBD
+* 05/24 (Thu) - Amortised Inference and Model Learning.
+* 05/29 (Tue) - Amortised Inference and Model Learning.
+* 05/31 (Thu) - Amortised Inference and Model Learning.
 * 06/05 (Tue) - Student Presentation
 * 06/07 (Thu) - Student Presentation
 * __**06/12 (Tue), 06/14 (Thu) - NO LECTURES.**__
