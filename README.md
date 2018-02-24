@@ -12,7 +12,7 @@ This course has two goals. The first is to help students to be a good user of an
 
 #### Evaluation
 
-Final exam (40%). Project (40%). Homework (20%).
+* Final exam (40%). Project (40%). Homework (20%).
 
 #### Teaching Staffs
 
@@ -22,45 +22,47 @@ Final exam (40%). Project (40%). Homework (20%).
 #### Place and Time
 
 * Place: room 111 in the N1 building
-* Time: 10:30am - 11:45am on Tuesday and Thursday from 27 February 2018 until 14 June 2018.
-* Final Exam: 9:00am - 11:00am on 14 June 2018 (Thursday) at the room 111 in the N1 building.
+* Time: 10:30am - 11:45am on Tuesday and Thursday from February 27 2018 until June 14 2018.
+* Final Exam: 9:00am - 11:00am on June 14 2018 (Thursday) at the room 111 in the N1 building.
 
 
 #### Online Discussion
 
-We will use KLMS. 
+* We will use KLMS. 
 
 ## 3. Tentative Plan
 
-* 08/28 (Mon) - Introduction. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture1/Lecture1.pdf) [Homework0.](https://github.com/hongseok-yang/probprog17/blob/master/Homework/Homework0/homework0.pdf)
-* 08/30 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture2/Lecture2.pdf)
-* __**09/04 (Mon), 09/06 (Wed) - NO LECTURES.**__ 
-* 09/11 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
-* 09/13 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture3/Lecture3.pdf)
-* 09/18 (Mon) - Generative Modelling with Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
-* 09/20 (Wed) - Generative Modelling with Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
-* __**09/21-22 (Thu,Fri) - EVENING MEETINGS with project groups.**__ 
-* 09/25 (Mon) - Generative Modelling with Anglican. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture4/Lecture4.pdf)
-* 09/27 (Wed) - Markov Chain Monte Carlo. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
-* __**10/02 (Mon), 10/04 (Wed), 10/09 (Mon) - NO LECTURES.**__
-* 10/11 (Wed) - Markov Chain Monte Carlo. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
-* __**10/16 (Mon), 10/18 (Wed) - NO LECTURES.**__
-* 10/23 (Mon) - Markov Chain Monte Carlo. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture5/Lecture5.pdf)
-* 10/25 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
-* __**10/26-27 (Thu,Fri) - EVENING MEETINGS with project groups.**__
-* 10/30 (Mon) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
-* 11/01 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Lecture6.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture6/Note6.pdf)
-* 11/06 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
-* 11/08 (Wed) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
-* __**11/13 (Mon), 11/15 (Wed) - NO LECTURES.**__
-* 11/20 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
-* 11/22 (Wed) - Denotational Semantics of Probabilistic Programs. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Lecture7.pdf) [Lecture Note.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture7/Note7.pdf)
-* __**11/23-24 (Thu,Fri) - EVENING MEETINGS with project groups.**__
-* 11/27 (Mon) - Amortised Inference. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture8/Lecture8.pdf) 
-* 11/29 (Wed) - Amortised Inference. [Slides.](https://github.com/hongseok-yang/probprog17/blob/master/Lectures/Lecture8/Lecture8.pdf) 
-* 12/04 (Mon) - Project Presentation and Discussion.
-* __**12/06 (Wed) - NO LECTURE.**__
-* __**12/11 (Mon), 12/13 (Wed) - NO LECTURES.**__
+* 02/26 (Tue) - Introduction. 
+* __**03/01 (Thu) - NO LECTURE.**__
+* 03/06 (Tue) - Basics of Clojure and Tiny Bit of Anglican.
+* 03/08 (Thu) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
+* 03/13 (Tue) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
+* 03/15 (Thu) - Generative Modelling with Anglican. 
+* 03/20 (Tue) - Generative Modelling with Anglican. 
+* 03/22 (Thu) - Generative Modelling with Anglican. 
+* 03/27 (Tue) - Markov Chain Monte Carlo. 
+* 03/29 (Thu) - Markov Chain Monte Carlo. 
+* 04/03 (Tue) - Markov Chain Monte Carlo. 
+* 04/05 (Thu) - Implementing Inference Algorithms for Probabilistic Programs. 
+* 04/10 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. 
+* 04/12 (Thu) - Implementing Inference Algorithms for Probabilistic Programs. 
+* __**04/17 (Tue), 04/19 (Thu) - NO LECTURES.**__
+* 04/24 (Tue) - Denotational Semantics of Probabilistic Programs. 
+* 04/26 (Thu) - Denotational Semantics of Probabilistic Programs. 
+* 05/01 (Tue) - Denotational Semantics of Probabilistic Programs. 
+* 05/03 (Thu) - Denotational Semantics of Probabilistic Programs. 
+* 05/08 (Tue) - Amortised Inference. 
+* 05/10 (Thu) - Amortised Inference. 
+* 05/15 (Tue) - TBD
+* 05/17 (Thu) - TBD
+* __**05/22 (Tue) - NO LECTURE.**__
+* 05/24 (Thu) - TBD
+* 05/29 (Tue) - TBD
+* 05/31 (Tue) - TBD
+* 05/31 (Thu) - TBD
+* 06/05 (Tue) - TBD
+* 06/07 (Thu) - TBD
+* __**06/12 (Tue), 06/14 (Thu) - NO LECTURES.**__
 
 ## 4. Studying Materials
 
