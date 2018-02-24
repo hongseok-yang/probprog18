@@ -58,10 +58,9 @@ This course has two goals. The first is to help students to be a good user of an
 * __**05/22 (Tue) - NO LECTURE.**__
 * 05/24 (Thu) - TBD
 * 05/29 (Tue) - TBD
-* 05/31 (Tue) - TBD
 * 05/31 (Thu) - TBD
-* 06/05 (Tue) - TBD
-* 06/07 (Thu) - TBD
+* 06/05 (Tue) - Student Presentation
+* 06/07 (Thu) - Student Presentation
 * __**06/12 (Tue), 06/14 (Thu) - NO LECTURES.**__
 
 ## 4. Studying Materials
