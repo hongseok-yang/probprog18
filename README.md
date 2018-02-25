@@ -8,7 +8,7 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
-#### [February 27 2018] Project group.
+#### [February 27] Project group.
 
 The group project is an important part of this course. Find your project partners by March 13 2018, and inform Hongseok and Kwonsoo by email. Each group should consist of 3-4 students. Finally, if your group wants to go for Track B, contact Hongseok as early as possible by email. Both topics in Track B will be heavy in math.
 
