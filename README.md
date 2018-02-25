@@ -33,7 +33,7 @@ and to play with it.
 ## 3. Tentative Plan
 
 * 02/26 (Tue) - Introduction. 
-* __**03/01 (Thu) - NO LECTURE.**__
+* __**03/01 (Thu) - NO LECTURE. Independence Movement Day.**__
 * 03/06 (Tue) - Basics of Clojure and Tiny Bit of Anglican.
 * 03/08 (Thu) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
 * 03/13 (Tue) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
@@ -46,7 +46,7 @@ and to play with it.
 * 04/05 (Thu) - Basics of Operational Semantics.
 * 04/10 (Tue) - Specifying Inference Algorithms using Operational Semantics.
 * 04/12 (Thu) - Specifying Inference Algorithms using Operational Semantics.
-* __**04/17 (Tue), 04/19 (Thu) - NO LECTURES.**__
+* __**04/17 (Tue), 04/19 (Thu) - NO LECTURES. Midterm Exam.**__
 * 04/24 (Tue) - Specifying Inference Algorithms using Operational Semantics.
 * 04/26 (Thu) - Stochastic Variational Inference.
 * 05/01 (Tue) - Stochastic Variational Inference.
@@ -55,13 +55,13 @@ and to play with it.
 * 05/10 (Thu) - Denotational Semantics of Probabilistic Programs. 
 * 05/15 (Tue) - Denotational Semantics of Probabilistic Programs. 
 * 05/17 (Thu) - Denotational Semantics of Probabilistic Programs.
-* __**05/22 (Tue) - NO LECTURE.**__
+* __**05/22 (Tue) - NO LECTURE. Buddha's Birthday.**__
 * 05/24 (Thu) - Amortised Inference and Model Learning.
 * 05/29 (Tue) - Amortised Inference and Model Learning.
 * 05/31 (Thu) - Amortised Inference and Model Learning.
 * 06/05 (Tue) - Student Presentation
 * 06/07 (Thu) - Student Presentation
-* __**06/12 (Tue), 06/14 (Thu) - NO LECTURES.**__
+* __**06/12 (Tue), 06/14 (Thu) - NO LECTURES. Final Exam.**__
 
 ## 4. Studying Materials
 
@@ -83,4 +83,29 @@ Two good ways to understand probabilistic programming are to try a wide range of
 4. [Anglican website](https://probprog.github.io/anglican/index.html). In particular, students will learn a lot by trying examples in the site.
 5. [Forestdb.org](http://forestdb.org/) is a great source of interesting probabilistic programs. 
 6. [Edward tutorial website](http://edwardlib.org/tutorials/) and [Pyro example website](http://pyro.ai/examples/). Edward and Pyro are so called deep probabilistic programming languages that attempt to combine deep learning and probabilistic programming. These web pages contain interesting examples that one can try using these languages. 
-7. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)". This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
+7. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)". This web-based book describes the implementation of [WebPPL](http://webppl.org/), a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
+
+## 5. Group Project
+
+A group project is a crucial part of this course. 3-4 students will form a
+project group, and they will carry out a project in Track A or in Track B:
+
+1. **Track A**: A group develops an interesting application of Anglican or other probabilistic programming languages. The members of the group may attempt to find an efficient encoding of a highly complex probabilistic model (such as sequence memoizer) in Anglican,  or they may develop a new probabilistic model for a complex data set and analyse the data set, or they may try to find a novel use of probabilistic programming for solving well-known existing problems (such as figuring out secret key in some security protocol).
+2. **Track B**: At most two groups will be on this track. We recommend this track only for groups that feel comfortable with advanced mathematics. The goal of a group in this case is to study an advanced research topic on probabilistic programming, to gain deep understanding about it, and to help fellow students acquire the same understanding. Specifically, a group performs an in-depth study on one of two advanced topics, (reverse-mode) automatic differentiation and normalising flow, used in or supported by recent deep probabilistic programming languages such as Edward and Pyro. Then, the group has to teach what it learnt to other students in the course. By teaching, we mean (i) a presentation on the studied topic and (ii) a preparation of reading material and exercise problems. Further information about automatic differentation and normalising flow is given at the end of this webpage.
+
+#### Concrete Tasks
+
+#### Two Topics in Track B
+
+1. **(Reverse-mode) Automatic Differentiation** Automatic differentiation is one of the main driving technologies behind neural nets and deep probabilistic programming languages. Supporting it has been one of the main objectives of Tensorflow and PyTorch, two popular platforms for building neural nets and other machine-learning related software systems. Automatic differentiation is based on nontrivial mathematics; it originates from a non-standard interpretation of mathematical analysis, and its modern generalisation has sometimes been formalised using tools from differential geometry. Pyro, ProbTorch, Edward and Stan heavily use automatic differentation. A group will have to understand reverse-mode automatic differentation and explain how it has been or can be used to implement inference algorithms for probabilistic programming languages. Here are a few references that will help a group to find relevant papers.
+   1. [Rahul's blog article](https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/). 
+   2. [Blog article in Rufflewind's scratchpad](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation).
+   3. Baydin et al.'s ["Automatic Differentiation in Machine Learning: a Survey"](https://arxiv.org/pdf/1502.05767.pdf).
+   4. Conal Elliott's PEPM18 talk [slides and video](https://github.com/conal/talk-2018-essence-of-ad/blob/master/readme.md).
+   5. Automatic differentation in [PyTorch](http://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html) and [Tensorflow](https://www.tensorflow.org/versions/r0.12/api_docs/python/train/gradient_computation). There is a short [paper](https://openreview.net/pdf?id=BJJsrmfCZ) about the implementation in PyTorch.
+
+2. **Normalising Flow** Normalising flow is a powerful technique for building an approximating distribution in variational inference. It has been proposed in the context of solving general machine learning problems, but it has become an important construct, called bijector, in recent probabilistic programming languages Edward and Pyro. Here are a few references that will help a group to start its study on this subject:
+   1. Eric Jang's blog articles, [first](https://blog.evjang.com/2018/01/nf1.html) and [second](https://blog.evjang.com/2018/01/nf2.html).
+   2. Dillon et al.'s paper ["Tensorflow Distribution"](https://arxiv.org/abs/1711.10604) explains the bijector implementation of normalising flow in the probabilistic programming language Edward. 
+   3. Rezende and Mohamed's original paper ["Variational Inference with Normalizing Flows"](https://arxiv.org/abs/1505.05770).
+   4. Kingma et al.'s paper ["Improved Variational Inference with Inverse Autoregressive Flow"](http://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow).
