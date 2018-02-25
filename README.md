@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [February 27 2018] Project group.
+
+The group project is an important part of this course. Find your project partners by March 13 2018, and inform Hongseok and Kwonsoo by email. Each group should consist of 3-4 students. Finally, if your group wants to go for Track B, contact Hongseok as early as possible by email. Both topics in Track B will be heavy in math.
+
 ## 2. Logistics
 
 #### Evaluation
@@ -94,12 +98,12 @@ project group, and they will carry out a project in Track A or in Track B:
 
 #### Concrete Tasks
 
-1. **[Mar 13 (Tue), Midnight]** Form a group and inform us by email (Hongseok and Kwonsoo). 
-2. **[Apr 5 (Thu)]** Presentation of each group about its topic.
+1. **[Deadline: midnight on March 13 (Tue)]** Form a group and inform us by email (Hongseok and Kwonsoo). 
+2. **[April 5 (Thu)]** Presentation of each group about its topic.
 3. **[May 10 (Thu)]** Presentation on automatic differentiation by a group on track B.
 4. **[May 15 (Tue)]** Presentation on normalising flow by a group on track B.
-5. **[Jun 5 (Tue), Jun 7 (Thu)]** Presentation of group projects.
-6. **[Jun 8 (Fri), Midnight]** Submit a report on the project. We recommend each report to be 2-to-4 pages long, although it is fine to write a longer report if needed.
+5. **[June 5 (Tue), June 7 (Thu)]** Presentation of group projects.
+6. **[Deadline: midnight on June 8 (Fri)]** Submit a report on the project. We recommend each report to be 2-to-4 pages long, although it is fine to write a longer report if needed.
 
 #### Two Topics in Track B
 
