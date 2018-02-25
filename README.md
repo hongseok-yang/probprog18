@@ -20,7 +20,7 @@ The group project is an important part of this course. Find your project partner
 
 #### Teaching Staffs
 
-* Lecturer: [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok.yang@kaist.ac.kr, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building)
+* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building)
 * TA: Kwonsoo Chae (email: kwonsoo.chae@gmail.com)
 
 #### Place and Time
