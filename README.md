@@ -65,17 +65,22 @@ and to play with it.
 
 ## 4. Studying Materials
 
-Studying the lecture slidesand notes and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Also, at each lecture, we will give students pointers to the related papers. The next best option is to read the following draft book on probabilistic programming:
+Studying the lecture slides and notes and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Also, at each lecture, we will give students pointers to the related papers. If a student does not understand a certain concept, we encourage him or her to look it up in the Internet. We typically do this when we encounter a similar problem. In our case, Wikipedia, lecture notes or survey articles have helped us the most.
 
-1. "An Introduction to Probabilistic Programming" by Jan-Willem van de Meent, Brooks Paige, Hongseok Yang and Frank Wood. If my co-authors allow, Hongseok will distribute the book to the students.
+The next best option is to read the following draft book on probabilistic programming:
+
+1. "An Introduction to Probabilistic Programming" by Jan-Willem van de Meent, Brooks Paige, Hongseok Yang and Frank Wood. If other authors allow, Hongseok will distribute the book to the students.
+
+Reading this book will give a broader view on probabilistic programming and much deeper understanding into its inference algorithms and their implementations.
 
 If a student feels that she or he lacks background knowledge on machine learning, we recommend him or her to have a look at the following online materials.
 
 2. The online book "[Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)" describes Bayesian Machine Learning using a probabilistic programming system called PyMC. Hongseok found this book easy to follow and good at explaining basics and intuitions. 
 3. A more standard reference on machine learning is Bishop's book "Pattern Recognition and Machine Learning".
 
-Here are more materials on probabilistic programming.
+Two good ways to understand probabilistic programming are to try a wide range of examples and to understand common implementation techniques for probabilistic programming languages. The following documents provide such examples or explain those techniques.
 
 4. [Anglican website](https://probprog.github.io/anglican/index.html). In particular, students will learn a lot by trying examples in the site.
-5. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)" This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
-6. [Forestdb.org](http://forestdb.org/) is a great source of interesting probabilistic programs. 
+5. [Forestdb.org](http://forestdb.org/) is a great source of interesting probabilistic programs. 
+6. [Edward tutorial website](http://edwardlib.org/tutorials/) and [Pyro example website](http://pyro.ai/examples/). Edward and Pyro are so called deep probabilistic programming languages that attempt to combine deep learning and probabilistic programming. These web pages contain interesting examples that one can try using these languages. 
+7. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)" This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
