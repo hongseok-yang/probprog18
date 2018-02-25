@@ -35,7 +35,7 @@ The group project is an important part of this course. Find your project partner
 
 ## 3. Tentative Plan
 
-* 02/26 (Tue) - Introduction. 
+* 02/26 (Tue) - Introduction. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture1/Lecture1.pdf).
 * __**03/01 (Thu) - NO LECTURE. Independence Movement Day.**__
 * 03/06 (Tue) - Basics of Clojure and Tiny Bit of Anglican.
 * 03/08 (Thu) - Basics of Clojure and Tiny Bit of Anglican.
