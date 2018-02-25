@@ -76,6 +76,6 @@ If a student feels that she or he lacks background knowledge on machine learning
 
 Here are more materials on probabilistic programming.
 
-4. [Anglican website](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, students will learn a lot by trying examples in the site.
+4. [Anglican website](https://probprog.github.io/anglican/index.html). In particular, students will learn a lot by trying examples in the site.
 5. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)" This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
 6. [Forestdb.org](http://forestdb.org/) is a great source of interesting probabilistic programs. 
