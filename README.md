@@ -4,7 +4,8 @@ This is a webpage of the course "CS492 Probabilistic Programming", which is offe
 
 Probabilistic programming refers to the idea of developing a programming language for writing and reasoning about probabilistic models from machine learning and statistics. Such a language comes with the implementation of several generic inference algorithms that answer various queries about the models written in the language, such as posterior inference and marginalisation. By providing these algorithms, a probabilistic programming language enables data scientists to focus on designing good models based on their domain knowledge, instead of building effective inference engines for their models, a task that typically requires expertise in machine learning, statistics and systems. Even experts in machine learning and statistics may get benefitted from such a probabilistic programming system because using the system they can easily explore highly advanced models.
 
-This course has two goals. The first is to help students to be a good user of an expressive probabilistic programming language.  Throughout the course, we will use a particular language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/), but we will emphasise general principles that apply to a wide range of existing probabilistic programming systems. The second goal is to expose the students to recent exciting results in probabilistic programming, which come from machine learning, statistics, programming languages, and probability theory.  
+This course has two goals. The first is to help students to be a good user of an expressive probabilistic programming language.  Throughout the course, we will use a particular language, called [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/), but we will emphasise general principles that apply to a wide range of existing probabilistic programming systems. The second goal is to expose the students to recent exciting results in probabilistic programming, which come from machine learning, statistics, programming languages, and probability theory.  Through a group project, students will be given a chance to study such a result
+and to play with it.
 
 ## 1. Important Announcements
 
@@ -24,7 +25,6 @@ This course has two goals. The first is to help students to be a good user of an
 * Place: room 111 in the N1 building
 * Time: 10:30am - 11:45am on Tuesday and Thursday from February 27 2018 until June 14 2018.
 * Final Exam: 9:00am - 11:00am on June 14 2018 (Thursday) at the room 111 in the N1 building.
-
 
 #### Online Discussion
 
@@ -65,7 +65,17 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 4. Studying Materials
 
-1. [Anglican website](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, students will learn a lot by trying examples in the site.
-2. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)" This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
-3. [Forestdb.org](http://forestdb.org/) is a great source of interesting probabilistic programs. 
-4. The online book "[Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)" describes Bayesian Machine Learning using a probabilistic programming system called PyMC.  Hongseok found this book easy to follow and good at explaining basics and intuitions. A more standard reference on machine learning is Bishop's book "Pattern Recognition and Machine Learning".
+Studying the lecture slidesand notes and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Also, at each lecture, we will give students pointers to the related papers. The next best option is to read the following draft book on probabilistic programming:
+
+1. "An Introduction to Probabilistic Programming" by Jan-Willem van de Meent, Brooks Paige, Hongseok Yang and Frank Wood. If my co-authors allow, Hongseok will distribute the book to the students.
+
+If a student feels that she or he lacks background knowledge on machine learning, we recommend him or her to have a look at the following online materials.
+
+2. The online book "[Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)" describes Bayesian Machine Learning using a probabilistic programming system called PyMC. Hongseok found this book easy to follow and good at explaining basics and intuitions. 
+3. A more standard reference on machine learning is Bishop's book "Pattern Recognition and Machine Learning".
+
+Here are more materials on probabilistic programming.
+
+4. [Anglican website](http://www.robots.ox.ac.uk/~fwood/anglican/). In particular, students will learn a lot by trying examples in the site.
+5. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)" This web-based book describes the implementation of WebPPL, a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
+6. [Forestdb.org](http://forestdb.org/) is a great source of interesting probabilistic programs. 
