@@ -23,7 +23,7 @@ This course has two goals. The first is to help students to be a good user of an
 
 * Place: room 111 in the N1 building
 * Time: 10:30am - 11:45am on Tuesday and Thursday from February 27 2018 until June 14 2018.
-* Final Exam: 9:00am - 11:00am on June 14 2018 (Thursday) at the room 111 in the N1 building.
+* Final exam: 9:00am - 11:00am on June 14 2018 (Thursday) at the room 111 in the N1 building.
 
 #### Online Discussion
 
@@ -93,6 +93,13 @@ project group, and they will carry out a project in Track A or in Track B:
 2. **Track B**: At most two groups will be on this track. We recommend this track only for groups that feel comfortable with advanced mathematics. The goal of a group in this case is to study an advanced research topic on probabilistic programming, to gain deep understanding about it, and to help fellow students acquire the same understanding. Specifically, a group performs an in-depth study on one of two advanced topics, (reverse-mode) automatic differentiation and normalising flow, used in or supported by recent deep probabilistic programming languages such as Edward and Pyro. Then, the group has to teach what it learnt to other students in the course. By teaching, we mean (i) a presentation on the studied topic and (ii) a preparation of reading material and exercise problems. Further information about automatic differentiation and normalising flow is given at the end of this webpage.
 
 #### Concrete Tasks
+
+1. **[Mar 13 (Tue), Midnight]** Form a group and inform us by email (Hongseok and Kwonsoo). 
+2. **[Apr 5 (Thu)]** Presentation of each group about its topic.
+3. **[May 10 (Thu)]** Presentation on automatic differentiation by a group on track B.
+4. **[May 15 (Tue)]** Presentation on normalising flow by a group on track B.
+5. **[Jun 5 (Tue), Jun 7 (Thu)]** Presentation of group projects.
+6. **[Jun 8 (Fri), Midnight]** Submit a report on the project. We recommend each report to be 2-to-4 pages long, although it is fine to write a longer report if needed.
 
 #### Two Topics in Track B
 
