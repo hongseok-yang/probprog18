@@ -117,9 +117,13 @@ project group, and they will carry out a project in Track A or in Track B:
    3. Baydin et al.'s ["Automatic Differentiation in Machine Learning: a Survey"](https://arxiv.org/pdf/1502.05767.pdf).
    4. Conal Elliott's PEPM18 talk [slides and video](https://github.com/conal/talk-2018-essence-of-ad/blob/master/readme.md).
    5. Automatic differentiation in [PyTorch](http://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html) and [Tensorflow](https://www.tensorflow.org/versions/r0.12/api_docs/python/train/gradient_computation). There is a short [paper](https://openreview.net/pdf?id=BJJsrmfCZ) about the implementation in PyTorch.
+   6. [Autograd](https://github.com/HIPS/autograd) aims at implementation a very flexible version of automatic differentation for python.
+   7. [Diffsharp](http://diffsharp.github.io/DiffSharp/) is another well-known implementation for automatic differentation for the F# language.
 
 2. **Normalising Flow** Normalising flow is a powerful technique for building an approximating distribution in variational inference. It has been proposed in the context of solving general machine learning problems, but it has become an important construct, called bijector, in recent probabilistic programming languages Edward and Pyro. Here are a few references that will help a group to start its study on this subject:
    1. Eric Jang's blog articles, [first](https://blog.evjang.com/2018/01/nf1.html) and [second](https://blog.evjang.com/2018/01/nf2.html).
    2. Dillon et al.'s paper ["Tensorflow Distribution"](https://arxiv.org/abs/1711.10604) explains the bijector implementation of normalising flow in the probabilistic programming language Edward. 
-   3. Rezende and Mohamed's original paper ["Variational Inference with Normalizing Flows"](https://arxiv.org/abs/1505.05770).
-   4. Kingma et al.'s paper ["Improved Variational Inference with Inverse Autoregressive Flow"](http://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow).
+   3. [Documentation](http://docs.pyro.ai/en/0.1.2-release/transformed_dist.html#) on bijector and inverse autoregressive flow in Pyro.
+   4. Rezende and Mohamed's original paper ["Variational Inference with Normalizing Flows"](https://arxiv.org/abs/1505.05770).
+   5. Kingma et al.'s paper ["Improved Variational Inference with Inverse Autoregressive Flow"](http://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow).
+   6. Germain et al.'s paper ["MADE: Masked Autoencoder for Distribution Estimation"](https://arxiv.org/abs/1502.03509)
