@@ -100,6 +100,10 @@ project group, and they will carry out a project in Track A or in Track B:
 1. **Track A**: A group develops an interesting application of Anglican or other probabilistic programming languages. The members of the group may attempt to find an efficient encoding of a highly complex probabilistic model (such as sequence memoizer) in Anglican,  or they may develop a new probabilistic model for a complex data set and analyse the data set, or they may try to find a novel use of probabilistic programming for solving well-known existing problems (such as figuring out secret key in some security protocol).
 2. **Track B**: At most two groups will be on this track. We recommend this track only for groups that feel comfortable with advanced mathematics. The goal of a group in this case is to study an advanced research topic on probabilistic programming, to gain deep understanding about it, and to help fellow students acquire the same understanding. Specifically, a group performs an in-depth study on one of two advanced topics, (reverse-mode) automatic differentiation and normalising flow, used in or supported by recent deep probabilistic programming languages such as Edward and Pyro. Then, the group has to teach what it learnt to other students in the course. By teaching, we mean (i) a presentation on the studied topic and (ii) a preparation of reading material and exercise problems. Further information about automatic differentiation and normalising flow is given at the end of this webpage.
 
+#### Group
+
+1. Donghoon Ham, Youngkyu Hong, Hangyeol Yu and Seehyeon Yu: Track B - automatic differentiation.
+
 #### Concrete Tasks
 
 1. **[Deadline: midnight on March 13 (Tue)]** Form a group and inform us by email (Hongseok and Kwonsoo). 
