@@ -8,6 +8,8 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [February 28] One of the two subjects in Track B, automatic differentation, is taken by a group of four students.
+
 #### [February 27] [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf) is out.
 
 You don't have to submit your answer. But we strongly recommend you to try it. This homework will teach you how to run Anglican.
@@ -102,7 +104,7 @@ project group, and they will carry out a project in Track A or in Track B:
 
 #### Group
 
-1. Donghoon Ham, Youngkyu Hong, Hangyeol Yu and Seehyeon Yu: Track B - automatic differentiation.
+1. Donghoon Ham, Youngkyu Hong, Hangyeol Yu and Sihyeon Yu: Track B - automatic differentiation.
 
 #### Concrete Tasks
 
