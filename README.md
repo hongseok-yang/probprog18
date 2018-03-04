@@ -43,8 +43,8 @@ The group project is an important part of this course. Find your project partner
 
 * 02/26 (Tue) - Introduction. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture1/Lecture1.pdf). [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf).
 * __**03/01 (Thu) - NO LECTURE. Independence Movement Day.**__
-* 03/06 (Tue) - Basics of Clojure and Tiny Bit of Anglican.
-* 03/08 (Thu) - Basics of Clojure and Tiny Bit of Anglican.
+* 03/06 (Tue) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog18/tree/master/Lectures/Lecture2).
+* 03/08 (Thu) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog18/tree/master/Lectures/Lecture2).
 * 03/13 (Tue) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
 * 03/15 (Thu) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
 * 03/20 (Tue) - Generative Modelling with Anglican. 
