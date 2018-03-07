@@ -104,7 +104,8 @@ project group, and they will carry out a project in Track A or in Track B:
 
 #### Group (Track A)
 
-1. Dongkyeun Kim, Jungyeun Moon and Dongkwan Kim
+1. Dongkyeun Kim, Dongkwan Kim and Jungyeun Moon 
+2. Kwonsoo Chae, Seongmin Lee and HyungJin Lim
 
 #### Group (Track B)
 
