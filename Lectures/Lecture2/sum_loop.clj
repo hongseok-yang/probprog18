@@ -8,4 +8,5 @@
       r 
       (recur (- i 1) (+ (sq i) r)))))
 
-
+(defn h [n]
+  (reduce + 0.0 (map sq (range 0 (inc n)))))
