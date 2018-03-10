@@ -8,7 +8,9 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
-#### [March 10] [Homework 1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) is out. The due date is 2:00pm on March 30 2018 (Friday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
+#### [March 10] [Homework 1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) is out. 
+
+The due date is 2:00pm on March 30 2018 (Friday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
 
 #### [February 28] One of the two subjects in Track B, automatic differentation, is taken by a group of four students.
 
