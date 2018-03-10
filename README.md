@@ -43,13 +43,18 @@ The group project is an important part of this course. Find your project partner
 
 * We will use KLMS. 
 
-## 3. Tentative Plan
+## 3. Homework
+
+* [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf).
+* [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf).
+
+## 4. Tentative Plan
 
 * 02/26 (Tue) - Introduction. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture1/Lecture1.pdf). [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf).
 * __**03/01 (Thu) - NO LECTURE. Independence Movement Day.**__
 * 03/06 (Tue) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog18/tree/master/Lectures/Lecture2).
 * 03/08 (Thu) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog18/tree/master/Lectures/Lecture2).
-* 03/13 (Tue) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture3/Lecture3.pdf).
+* 03/13 (Tue) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture3/Lecture3.pdf). [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf).
 * 03/15 (Thu) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture3/Lecture3.pdf).
 * 03/20 (Tue) - Generative Modelling with Anglican. 
 * 03/22 (Thu) - Generative Modelling with Anglican. 
@@ -76,7 +81,7 @@ The group project is an important part of this course. Find your project partner
 * 06/07 (Thu) - Student Presentation
 * __**06/12 (Tue), 06/14 (Thu) - NO LECTURES. Final Exam.**__
 
-## 4. Studying Materials
+## 5. Studying Materials
 
 Studying the lecture slides and notes and the homework exercises of the course is likely to be the most time-efficient way to catch up with this course. Also, at each lecture, we will give students pointers to the related papers. If a student does not understand a certain concept, we encourage him or her to look it up in the Internet. We typically do this when we encounter a similar problem. In our case, Wikipedia, lecture notes or survey articles have helped us the most.
 
@@ -98,7 +103,7 @@ Two good ways to understand probabilistic programming are to try a wide range of
 6. [Edward tutorial website](http://edwardlib.org/tutorials/) and [Pyro example website](http://pyro.ai/examples/). Edward and Pyro are so called deep probabilistic programming languages that attempt to combine deep learning and probabilistic programming. These web pages contain interesting examples that one can try using these languages. 
 7. Goodman and Stuhlmuller's book "[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)". This web-based book describes the implementation of [WebPPL](http://webppl.org/), a probabilistic programming language on top of JavaScript. Many techniques in the book are general and apply to other probabilistic programming languages.
 
-## 5. Group Project
+## 6. Group Project
 
 A group project is a crucial part of this course. 3-4 students will form a
 project group, and they will carry out a project in Track A or in Track B:
