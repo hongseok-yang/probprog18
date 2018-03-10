@@ -47,8 +47,8 @@ The group project is an important part of this course. Find your project partner
 
 Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
 
-* [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf) - don't submit.
-* [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) -  deadline: 2:00pm on March 30 2018 (Friday). 
+* [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf) - Don't submit.
+* [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) -  Deadline: 2:00pm on March 30 2018 (Friday). 
 
 ## 4. Tentative Plan
 
