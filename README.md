@@ -117,6 +117,7 @@ project group, and they will carry out a project in Track A or in Track B:
 
 1. Dongkyeun Kim, Dongkwan Kim and Jungyeun Moon 
 2. Kwonsoo Chae, Seongmin Lee and HyungJin Lim
+3. Youngkyeong Bae, Kyoungyeon Lee and Sunghui Lee.
 
 #### Group (Track B)
 
