@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [March 14] TA office hour
+
+Kwonsoo will have office hours from 4:00pm to 6:00pm on Tuesday at the room 3431 in the E3-1 building (starting from March 20).
+
 #### [March 10] [Homework 1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) is out. 
 
 The due date is 2:00pm on March 30 2018 (Friday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
@@ -31,7 +35,7 @@ The group project is an important part of this course. Find your project partner
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building)
-* TA: Kwonsoo Chae (email: kwonsoo.chae@gmail.com)
+* TA: Kwonsoo Chae (email: kwonsoo.chae@gmail.com, office hour: 4:00pm - 6:00pm on Tuesday at the room 3431 in the E3-1 building)
 
 #### Place and Time
 
