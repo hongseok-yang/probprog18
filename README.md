@@ -124,6 +124,7 @@ project group, and they will carry out a project in Track A or in Track B:
 3. Youngkyeong Bae, Kyoungyeon Lee and Sunghui Lee.
 4. Faycal Baki, Timo Moilanen and Jonas Nikula.
 5. Silap Aliyev and Changyoung Koh.
+6. Jiseok Kim, Jongwan Lee and Jaeyoung Whang.
 
 #### Group (Track B)
 
