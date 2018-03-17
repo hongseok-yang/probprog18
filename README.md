@@ -59,10 +59,10 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 02/26 (Tue) - Introduction. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture1/Lecture1.pdf). [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf).
 * __**03/01 (Thu) - NO LECTURE. Independence Movement Day.**__
 * 03/06 (Tue) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog18/tree/master/Lectures/Lecture2).
-* 03/08 (Thu) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog18/tree/master/Lectures/Lecture2).
-* 03/13 (Tue) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture3/Lecture3.pdf). [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf).
-* 03/15 (Thu) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture3/Lecture3.pdf).
-* 03/20 (Tue) - Generative Modelling with Anglican. 
+* 03/08 (Thu) - Basics of Clojure and Tiny Bit of Anglican. 
+* 03/13 (Tue) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture3/Lecture3.pdf). [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture3/PuzlLec3.clj).
+* 03/15 (Thu) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
+* 03/20 (Tue) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/Lecture4.pdf). [Gorilla worksheet for 2D physics](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/PhysicsLec4.clj). [Gorilla worksheet for program induction](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/ProgIndLec4.clj). (Note: In order to run the 2D physics example, you will have to copy [bounce.clj](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/bounce.clj) to the anglican-user/src directory).
 * 03/22 (Thu) - Generative Modelling with Anglican. 
 * 03/27 (Tue) - Markov Chain Monte Carlo. 
 * 03/29 (Thu) - Markov Chain Monte Carlo. 
