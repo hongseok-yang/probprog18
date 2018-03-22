@@ -125,7 +125,8 @@ project group, and they will carry out a project in Track A or in Track B:
 4. Faycal Baki, Timo Moilanen and Jonas Nikula.
 5. Silap Aliyev and Changyoung Koh.
 6. Jiseok Kim, Jongwan Lee and Jaeyoung Whang.
-7. Kangsan Kim, Ohjun Kwon and Sungje Moon.
+7. Dohyeong Kim, Kangsan Kim and Ohjun Kwon.
+8. Kwanwoo Kim, Youngjo Min and Sungje Moon.
 
 #### Group (Track B)
 
