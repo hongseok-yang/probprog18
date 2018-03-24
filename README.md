@@ -8,6 +8,21 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [March 24] Reminder of the group project pitch on April 5.
+
+During our lecture time on the 5 of April, we will have a project-pitch session. This means that each of the 8 project groups in Track A will give a 7 minute presentation on what the group plans to do, and get feedback from others in the lecture for about 3 minutes. So, please pick a topic for your group project, and do prepare a presentation. We will use the order in the course webpage to decide the order of presentations:
+
+1. Dongkyeun Kim, Dongkwan Kim and Jungyeun Moon
+2. Kwonsoo Chae, Seongmin Lee and HyungJin Lim
+3. Youngkyeong Bae, Kyoungyeon Lee and Sunghui Lee.
+4. Faycal Baki, Timo Moilanen and Jonas Nikula.
+5. Silap Aliyev and Changyoung Koh.
+6. Jiseok Kim, Jongwan Lee and Jaeyoung Whang.
+7. Dohyeong Kim, Kangsan Kim and Ohjun Kwon.
+8. Kwanwoo Kim, Youngjo Min and Sungje Moon.
+
+This is a tentative plan. Some students cancelled their registrations for this course. So, there might be some changes in the plan.
+
 #### [March 14] TA office hour
 
 Kwonsoo will have office hours from 4:00pm to 6:00pm on Tuesday at the room 3431 in the E3-1 building (starting from March 20).
@@ -64,7 +79,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 03/15 (Thu) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
 * 03/20 (Tue) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/Lecture4.pdf). [Gorilla worksheet for 2D physics](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/PhysicsLec4.clj). [Gorilla worksheet for program induction](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/ProgIndLec4.clj). (Note: In order to run the 2D physics example, you will have to copy [bounce.clj](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/bounce.clj) to the anglican-user/src directory and replace anglican-user/project.clj by [this file](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture4/project.clj)).
 * 03/22 (Thu) - Generative Modelling with Anglican. 
-* 03/27 (Tue) - Markov Chain Monte Carlo. 
+* 03/27 (Tue) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture5/Lecture5.pdf). 
 * 03/29 (Thu) - Markov Chain Monte Carlo. 
 * 04/03 (Tue) - Markov Chain Monte Carlo. 
 * 04/05 (Thu) - Group Project Pitch.
