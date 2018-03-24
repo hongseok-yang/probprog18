@@ -16,12 +16,12 @@ During our lecture time on the 5 of April, we will have a project-pitch session.
 2. Kwonsoo Chae, Seongmin Lee and HyungJin Lim
 3. Youngkyeong Bae, Kyoungyeon Lee and Sunghui Lee.
 4. Faycal Baki, Timo Moilanen and Jonas Nikula.
-5. Silap Aliyev and Changyoung Koh.
+5. Changyoung Koh.
 6. Jiseok Kim, Jongwan Lee and Jaeyoung Whang.
 7. Dohyeong Kim, Kangsan Kim and Ohjun Kwon.
 8. Kwanwoo Kim, Youngjo Min and Sungje Moon.
 
-This is a tentative plan. Some students cancelled their registrations for this course. So, there might be some changes in the plan.
+This is a tentative plan. Some students might cancel their registrations for this course in the next few weeks. So, there might be some changes in the plan.
 
 #### [March 14] TA office hour
 
