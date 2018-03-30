@@ -146,7 +146,7 @@ project group, and they will carry out a project in Track A or in Track B:
 #### Group (Track B)
 
 1. Donghoon Ham, Youngkyu Hong, Hangyeol Yu and Sihyeon Yu - automatic differentiation.
-2. Hyunwoo Lee - normalising flow.
+2. Hanpil Kang and Hyunwoo Lee - normalising flow.
 
 #### Concrete Tasks
 
