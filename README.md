@@ -8,6 +8,11 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [April 1] [Homework 2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf) is out. 
+
+The due date is 2:00pm on April 23 2018 (Monday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
+
+
 #### [March 24] Reminder of the group project pitch on April 5.
 
 During our lecture time on the 5 of April, we will have a project-pitch session. This means that each of the 8 project groups in Track A will give a 7 minute presentation on what the group plans to do, and get feedback from others in the lecture for about 3 minutes. So, please pick a topic for your group project, and do prepare a presentation. We will use the order in the course webpage to decide the order of presentations:
