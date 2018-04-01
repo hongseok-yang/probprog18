@@ -8,7 +8,7 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
-#### [April 1] [Homework 2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf) is out. 
+#### [April 1] [Homework2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf) is out. 
 
 The due date is 2:00pm on April 23 2018 (Monday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
 
@@ -32,7 +32,7 @@ This is a tentative plan. Some students might cancel their registrations for thi
 
 Kwonsoo will have office hours from 4:00pm to 6:00pm on Tuesday at the room 3431 in the E3-1 building (starting from March 20).
 
-#### [March 10] [Homework 1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) is out. 
+#### [March 10] [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) is out. 
 
 The due date is 2:00pm on March 30 2018 (Friday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
 
@@ -73,6 +73,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 * [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf) - Don't submit.
 * [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) -  Deadline: 2:00pm on March 30 2018 (Friday). 
+* [Homework2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf) -  Deadline: 2:00pm on April 23 2018 (Monday).
 
 ## 4. Tentative Plan
 
@@ -86,7 +87,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 03/22 (Thu) - Generative Modelling with Anglican. 
 * 03/27 (Tue) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture5/Lecture5.pdf). 
 * 03/29 (Thu) - Markov Chain Monte Carlo. 
-* 04/03 (Tue) - Markov Chain Monte Carlo. 
+* 04/03 (Tue) - Markov Chain Monte Carlo. [Homework2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf).
 * 04/05 (Thu) - Group Project Pitch.
 * 04/10 (Tue) - Specifying Inference Algorithms using Operational Semantics.
 * 04/12 (Thu) - Specifying Inference Algorithms using Operational Semantics.
