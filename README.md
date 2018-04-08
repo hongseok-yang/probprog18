@@ -8,6 +8,22 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [April 1] Important information about Homework2.
+
+Changyoung Koh found a problem in one of the problems in Homework 2. He also found a solution. Please have a look at his message that is copied below:
+
+==== Changyoung's message: from here ====
+
+I don't know whether everyone has same issue, but in my case, I encountered an error saying Clojure could not locate the package.
+
+This error can be resolved by modifying project.clj:
+
+1. Add [clojure-csv/clojure-csv "2.0.1"] line to :dependencies [...]
+2. Run $ lein deps to install missing dependencies.
+3. Re-launch Gorilla REPL to apply updated dependencies.
+
+==== Changyoung's message: to here ====
+
 #### [April 1] [Homework2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf) is out. 
 
 The due date is 2:00pm on April 23 2018 (Monday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
