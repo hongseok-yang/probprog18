@@ -105,10 +105,10 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 03/29 (Thu) - Markov Chain Monte Carlo. 
 * 04/03 (Tue) - Markov Chain Monte Carlo. [Homework2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf).
 * 04/05 (Thu) - Group Project Pitch.
-* 04/10 (Tue) - Specifying Inference Algorithms using Operational Semantics.
-* 04/12 (Thu) - Specifying Inference Algorithms using Operational Semantics.
+* 04/10 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/Lecture6.pdf). [Note](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/Note6.pdf). 
+* 04/12 (Thu) - Implementing Inference Algorithms for Probabilistic Programs.
 * __**04/17 (Tue), 04/19 (Thu) - NO LECTURES. Midterm Exam.**__
-* 04/24 (Tue) - Specifying Inference Algorithms using Operational Semantics.
+* 04/24 (Tue) - Implementing Inference Algorithms for Probabilistic Programs.
 * 04/26 (Thu) - Stochastic Variational Inference.
 * 05/01 (Tue) - Stochastic Variational Inference.
 * 05/03 (Thu) - Amortised Inference and Model Learning.
@@ -156,14 +156,13 @@ project group, and they will carry out a project in Track A or in Track B:
 
 #### Group (Track A)
 
-1. Dongkyeun Kim, Dongkwan Kim and Jungyeun Moon 
+1. Dongkyeun Kim, Dongkwan Kim and Changyoung Koh.
 2. Kwonsoo Chae, Seongmin Lee and HyungJin Lim
 3. Youngkyeong Bae, Kyoungyeon Lee and Sunghoi Lee.
 4. Faycal Baki, Timo Moilanen and Jonas Nikula.
-5. Silap Aliyev and Changyoung Koh.
-6. Jiseok Kim, Jongwan Lee and Jaeyoung Whang.
-7. Dohyeong Kim, Kangsan Kim and Ohjun Kwon.
-8. Kwanwoo Kim, Youngjo Min and Sungje Moon.
+5. Jiseok Kim, Jongwan Lee and Jaeyoung Whang.
+6. Dohyeong Kim, Kangsan Kim and Ohjun Kwon.
+7. Kwanwoo Kim, Youngjo Min and Sungje Moon.
 
 #### Group (Track B)
 
