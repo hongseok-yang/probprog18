@@ -114,7 +114,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 05/03 (Thu) - Amortised Inference and Model Learning.
 * 05/08 (Tue) - Amortised Inference and Model Learning.
 * 05/10 (Thu) - Group Presentation 1: Automatic Differentiation
-* 05/15 (Tue) - Group Presentation 2: Normalising Flow
+* 05/15 (Tue) - Normalising Flow
 * 05/17 (Thu) - Denotational Semantics of Probabilistic Programs.
 * __**05/22 (Tue) - NO LECTURE. Buddha's Birthday.**__
 * 05/24 (Thu) - Denotational Semantics of Probabilistic Programs.
@@ -167,7 +167,6 @@ project group, and they will carry out a project in Track A or in Track B:
 #### Group (Track B)
 
 1. Donghoon Ham, Youngkyu Hong, Hangyeol Yu and Sihyeon Yu - automatic differentiation.
-2. Hanpil Kang and Hyunwoo Lee - normalising flow.
 
 #### Concrete Tasks
 
