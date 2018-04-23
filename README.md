@@ -108,7 +108,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 04/10 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/Lecture6.pdf). [Note](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/Note6.pdf). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board1.jpg), [2](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board2.jpg), [3](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board3.jpg), [4](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board4.jpg), [5](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board5.jpg), [6](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board6.jpg)
 * 04/12 (Thu) - Implementing Inference Algorithms for Probabilistic Programs.
 * __**04/17 (Tue), 04/19 (Thu) - NO LECTURES. Midterm Exam.**__
-* 04/24 (Tue) - Implementing Inference Algorithms for Probabilistic Programs.
+* 04/24 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. Handwritten Notes: [7](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board7.jpg), [8](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board8.jpg), [9](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board9.jpg), [10](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board10.jpg)
 * 04/26 (Thu) - Stochastic Variational Inference.
 * 05/01 (Tue) - Stochastic Variational Inference.
 * 05/03 (Thu) - Amortised Inference and Model Learning.
