@@ -109,7 +109,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 04/12 (Thu) - Implementing Inference Algorithms for Probabilistic Programs.
 * __**04/17 (Tue), 04/19 (Thu) - NO LECTURES. Midterm Exam.**__
 * 04/24 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. Handwritten Notes: [7](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board7.jpg), [8](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board8.jpg), [9](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board9.jpg), [10](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board10.jpg)
-* 04/26 (Thu) - Stochastic Variational Inference.
+* 04/26 (Thu) - Stochastic Variational Inference. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/Lecture7.pdf). [Gorilla worksheet for some variational-inferenc examples](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/BBVILec7.clj). 
 * 05/01 (Tue) - Stochastic Variational Inference.
 * 05/03 (Thu) - Amortised Inference and Model Learning.
 * 05/08 (Tue) - Amortised Inference and Model Learning.
