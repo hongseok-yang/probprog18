@@ -109,9 +109,9 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 04/12 (Thu) - Implementing Inference Algorithms for Probabilistic Programs.
 * __**04/17 (Tue), 04/19 (Thu) - NO LECTURES. Midterm Exam.**__
 * 04/24 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. Handwritten Notes: [7](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board7.jpg), [8](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board8.jpg), [9](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board9.jpg), [10](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board10.jpg)
-* 04/26 (Thu) - Stochastic Variational Inference. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/Lecture7.pdf). [Gorilla worksheet for some variational-inference examples](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/BBVILec7.clj). 
-* 05/01 (Tue) - Stochastic Variational Inference.
-* 05/03 (Thu) - Amortised Inference and Model Learning.
+* 04/26 (Thu) - Implementing Inference Algorithms for Probabilistic Programs.
+* 05/01 (Tue) - Stochastic Variational Inference.[Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/Lecture7.pdf). [Gorilla worksheet for some variational-inference examples](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/BBVILec7.clj). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board3.jpg)
+* 05/03 (Thu) - Stochastic Variational Inference.
 * 05/08 (Tue) - Amortised Inference and Model Learning.
 * 05/10 (Thu) - Group Presentation 1: Automatic Differentiation
 * 05/15 (Tue) - Normalising Flow
