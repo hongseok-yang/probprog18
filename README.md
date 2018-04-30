@@ -8,6 +8,11 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [April 30] [Homework3](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework3/homework3-questions.pdf) is out. 
+
+The due date is 2:00pm on May 16 2018 (Wednesday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
+
+
 #### [April 1] Important information about Homework2.
 
 Changyoung Koh found a problem in one of the problems in Homework 2. He also found a solution. Please have a look at his message that is copied below:
@@ -90,6 +95,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * [Homework0](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework0/homework0.pdf) - Don't submit.
 * [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) -  Deadline: 2:00pm on March 30 2018 (Friday). 
 * [Homework2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf) -  Deadline: 2:00pm on April 23 2018 (Monday).
+* [Homework3](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework3/homework3-questions.pdf) -  Deadline: 2:00pm on May 16 2018 (Wednesday).
 
 ## 4. Tentative Plan
 
@@ -110,7 +116,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * __**04/17 (Tue), 04/19 (Thu) - NO LECTURES. Midterm Exam.**__
 * 04/24 (Tue) - Implementing Inference Algorithms for Probabilistic Programs. Handwritten Notes: [7](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board7.jpg), [8](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board8.jpg), [9](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board9.jpg), [10](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture6/board10.jpg)
 * 04/26 (Thu) - Implementing Inference Algorithms for Probabilistic Programs.
-* 05/01 (Tue) - Stochastic Variational Inference.[Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/Lecture7.pdf). [Gorilla worksheet for some variational-inference examples](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/BBVILec7.clj). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board3.jpg)
+* 05/01 (Tue) - Stochastic Variational Inference.[Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/Lecture7.pdf). [Gorilla worksheet for some variational-inference examples](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/BBVILec7.clj). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture7/board3.jpg). [Homework3](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework3/homework3-questions.pdf).
 * 05/03 (Thu) - Stochastic Variational Inference.
 * 05/08 (Tue) - Amortised Inference and Model Learning.
 * 05/10 (Thu) - Group Presentation 1: Automatic Differentiation
