@@ -8,6 +8,11 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [May 22] [Homework4](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework4/homework4-questions.pdf) is out. 
+
+The due date is 2:00pm on June 1 2018 (Friday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
+
+
 #### [April 30] [Homework3](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework3/homework3-questions.pdf) is out. 
 
 The due date is 2:00pm on May 16 2018 (Wednesday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
@@ -96,6 +101,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * [Homework1](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework1/homework1-questions.pdf) -  Deadline: 2:00pm on March 30 2018 (Friday). 
 * [Homework2](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework2/homework2-questions.pdf) -  Deadline: 2:00pm on April 23 2018 (Monday).
 * [Homework3](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework3/homework3-questions.pdf) -  Deadline: 2:00pm on May 16 2018 (Wednesday).
+* [Homework4](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework4/homework4-questions.pdf) -  Deadline: 2:00pm on June 1 2018 (Friday).
 
 ## 4. Tentative Plan
 
@@ -121,7 +127,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 05/08 (Tue) - Amortised Inference. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture8/Lecture8.pdf). 
 * 05/10 (Thu) - Group Presentation 1: Automatic Differentiation
 * 05/15 (Tue) - Normalising Flow
-* 05/17 (Thu) - Denotational Semantics of Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture9/Lecture9.pdf). [Note](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture9/Note9.pdf). 
+* 05/17 (Thu) - Denotational Semantics of Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture9/Lecture9.pdf). [Note](https://github.com/hongseok-yang/probprog18/blob/master/Lectures/Lecture9/Note9.pdf). [Homework4](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework4/homework4-questions.pdf).
 * __**05/22 (Tue) - NO LECTURE. Buddha's Birthday.**__
 * 05/24 (Thu) - Denotational Semantics of Probabilistic Programs.
 * 05/29 (Tue) - Denotational Semantics of Probabilistic Programs.
