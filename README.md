@@ -8,6 +8,21 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [May 31] Project presentation on 5 and 7 June. 
+
+Each project group will present its work on the 5th or the 7th of June. It will be given 20min for presentation and question/answer. On the 5th, the following four groups will present their work:
+
+1. Dongkyeun Kim, Dongkwan Kim and Changyoung Koh.
+2. Kwonsoo Chae, Seongmin Lee and HyungJin Lim
+3. Youngkyeong Bae, Kyoungyeon Lee and Sunghoi Lee.
+4. Faycal Baki, Timo Moilanen and Jonas Nikula.
+
+On the 7th, the following three groups will present their results:
+
+5. Jiseok Kim, Jongwan Lee and Jaeyoung Whang.
+6. Dohyeong Kim, Kangsan Kim and Ohjun Kwon.
+7. Kwanwoo Kim, Youngjo Min and Sungje Moon.
+
 #### [May 22] [Homework4](https://github.com/hongseok-yang/probprog18/blob/master/Homework/Homework4/homework4-questions.pdf) is out. 
 
 The due date is 2:00pm on June 1 2018 (Friday). Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
