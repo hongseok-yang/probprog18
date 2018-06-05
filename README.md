@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [June 4] Final exam on 14 June.
+
+The final exam of this course will take place in our usual classroom from 9:00am to 11:00am on 14 June (Thursday next week). It is a closed-book exam. Make sure that you know how to solve homework exercises.
+
 #### [May 31] Project presentation on 5 and 7 June. 
 
 Each project group will present its work on the 5th or the 7th of June. It will be given 20min for presentation and question/answer. On the 5th, the following four groups will present their work:
