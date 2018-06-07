@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [June 7] Short report on your project by 10 June.
+
+Submit a 1-2 page report on your project by the midnight of 10 June (Sunday). You can email it to me and the TA, or you can put it in the usual homework box in the E3-1 building. Also, if you are interested in putting the slides of your project presentation online in the course webpage, email me your slides. If you are not, you don't have to do this.
+
 #### [June 4] Final exam on 14 June.
 
 The final exam of this course will take place in our usual classroom from 9:00am to 11:00am on 14 June (Thursday next week). It is a closed-book exam. Make sure that you know how to solve homework exercises.
